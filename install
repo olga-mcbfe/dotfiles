@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "Olga was here"
-
-exit 1
+ln -sf ~/dotfiles/zshrc ~/.zshrc
