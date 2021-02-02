@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Olga was here"
+
+exit 1
